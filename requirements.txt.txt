@@ -1,0 +1,7 @@
+gradio
+nltk
+pandas
+joblib
+sentence-transformers
+huggingface_hub>=0.12.1
+scikit-learn==1.2.1
